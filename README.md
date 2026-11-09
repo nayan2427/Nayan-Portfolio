@@ -4,7 +4,7 @@ A high-performance, futuristic cyberpunk-themed developer portfolio built with *
 
 Designed and customized for **Nayan Vishwakarma** — Frontend Developer & Computer Science Undergraduate at Medi-Caps University (8.44 CGPA).
 
-![Portfolio Preview](/profile.png)
+![Portfolio Preview](/profile1.png)
 
 ---
 
